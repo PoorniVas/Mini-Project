@@ -14,8 +14,8 @@
  - seaborn 
  - scikit-learn  
  ## Inferance
- ### Best Model          : Random Forest Classifier
- ### Best Model Accuracy : 84.34
+ #### Best Model          : Random Forest Classifier
+ #### Best Model Accuracy : 84.34
  ## Algorithms 
  - Logistic Regression
  - Decision Tree classifier
