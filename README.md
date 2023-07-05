@@ -6,7 +6,7 @@
  2.Data Gathering <br>
  3.Data Cleaning <br>
  4.Data Exploration and Visualization <br>
- 5.Train th algorithm <br>
+ 5.Train the algorithm <br>
  6.Evaluate your model(Regression and Classification) using a few metrics <br>
  ## Libraries Used
  - pandas 
